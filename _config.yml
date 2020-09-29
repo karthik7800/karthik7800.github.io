@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
-name: "Visual Retreat"
-title: "Visual Retreat"
+name: Visual Retreat
+title: Visual Retreat
 description: "Photographic Journey"
 baseurl: '' # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
